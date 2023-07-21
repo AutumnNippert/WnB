@@ -6,7 +6,8 @@ from datetime import datetime
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
-print("Watch and Backup! - Created by Cardigan")
+print("Watch and Backup")
+print("V1.0 - Created by Cardigan")
 
 application_path = ""
 # determine if application is a script file or frozen exe (pyinstaller shenanegans)
