@@ -3,3 +3,5 @@ toexe
 log/
 backup/
 test_folder/
+build/
+wnb.spec
