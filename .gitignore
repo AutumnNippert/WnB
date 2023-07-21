@@ -2,3 +2,4 @@ toexe
 .venv
 log/
 backup/
+test_folder/
